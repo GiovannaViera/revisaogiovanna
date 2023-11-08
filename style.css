@@ -2,7 +2,9 @@ body {
     background-image:50px;
     font-size:15px;
     background-color: rgb(136, 224, 136);
-    
+    margin: 30px;
+    padding: 30px;
+    border: black;
 }
 
 h3{
