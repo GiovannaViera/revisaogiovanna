@@ -1,12 +1,12 @@
 body {
-    background-image:;
-    font-size:;
-    background-color:;
-    background-repeat:;
+    background-image:10px;
+    font-size:15px;
+    background-color:white;
+    
 }
 
 h1{
-color: white;
+color: rgb(253, 0, 0);
 background-color: black;
 text-align: center;
 
